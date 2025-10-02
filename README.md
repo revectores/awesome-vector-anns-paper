@@ -9,12 +9,13 @@
 8. [How to Mine Potentially Popular Items? A Reverse MIPS-based Approach](https://arxiv.org/pdf/2504.13445)
 9. [MPAD - A New Dimension-Reduction Method for Preserving Nearest Neighbors in High-Dimensional Vector Search](https://arxiv.org/pdf/2504.16335)
 10. [OneDB - A Distributed Multi-Metric Data Similarity Search System](http://arxiv.org/pdf/2507.04256v1)
-11. [Results of the Big ANN - NeurIPS'23 competition](https://arxiv.org/pdf/2409.17424)
-12. [Subspace Collision - An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2411.14754)
-13. [THE FAISS LIBRARY](https://arxiv.org/pdf/2401.08281)
-14. [Towards Efficient Index Construction and Approximate Nearest Neighbor Search in High-Dimensional Spaces](https://dl.acm.org/doi/pdf/10.14778/3594512.3594527)
-15. [Understanding Indexing Efficiency for Approximate Nearest Neighbor Search in High-dimensional Vector Databases](https://dspace.mit.edu/bitstream/handle/1721.1/156935/qin-emmaqin-meng-bcs-2024-thesis.pdf?sequence=1&isAllowed=y)
-16. [Vector search with small radiuses](http://arxiv.org/pdf/2403.10746v1)
+11. [RAE - A Neural Network Dimensionality Reduction Method for Nearest Neighbors Preservation in Vector Search](http://arxiv.org/pdf/2509.25839v1)
+12. [Results of the Big ANN - NeurIPS'23 competition](https://arxiv.org/pdf/2409.17424)
+13. [Subspace Collision - An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2411.14754)
+14. [THE FAISS LIBRARY](https://arxiv.org/pdf/2401.08281)
+15. [Towards Efficient Index Construction and Approximate Nearest Neighbor Search in High-Dimensional Spaces](https://dl.acm.org/doi/pdf/10.14778/3594512.3594527)
+16. [Understanding Indexing Efficiency for Approximate Nearest Neighbor Search in High-dimensional Vector Databases](https://dspace.mit.edu/bitstream/handle/1721.1/156935/qin-emmaqin-meng-bcs-2024-thesis.pdf?sequence=1&isAllowed=y)
+17. [Vector search with small radiuses](http://arxiv.org/pdf/2403.10746v1)
 
 ## ANNS Benchmark
 1. [ANN-Benchmarks - A Benchmarking Tool for Approximate Nearest Neighbor Algorithms](https://doi.org/10.1016/j.is.2019.02.006)
@@ -128,13 +129,18 @@
 2. [Characterizing the Dilemma of Performance and Index Size in Billion-Scale Vector Search and Breaking It with Second-Tier Memory](https://arxiv.org/pdf/2405.03267)
 3. [DiskANN - Fast Accurate Billion-point Nearest Neighbor Search on a Single Node](https://dl.acm.org/doi/pdf/10.5555/3454287.3455520)
 4. [MicroNN - An On-device Disk-resident Updatable Vector Database](https://arxiv.org/pdf/2504.05573)
-5. [The DiskANN library - Graph-Based Indices for Fast, Fresh and Filtered Vector Search](http://sites.computer.org/debull/A24sept/p20.pdf)
+5. [Scalable Disk-Based Approximate Nearest Neighbor Search with Page-Aligned Graph](http://arxiv.org/pdf/2509.25487v1)
+6. [The DiskANN library - Graph-Based Indices for Fast, Fresh and Filtered Vector Search](http://sites.computer.org/debull/A24sept/p20.pdf)
 
 ### GPU ANNS
 1. [BANG - Billion-Scale Approximate Nearest Neighbour Search using a Single GPU](https://arxiv.org/pdf/2401.11324)
 2. [Billion-Scale Similarity Search with GPUs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8733051&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50Lzg3MzMwNTE=)
 3. [FusionANNS - An Efficient CPU:GPU Cooperative Processing Architecture for Billion-scale Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2409.16576)
 4. [VecFlow - A High-Performance Vector Data Management System for Filtered-Search on GPUs](https://arxiv.org/pdf/2506.00812)
+
+### Ray-Tracing ANNS
+1. [JUNO - Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping](http://arxiv.org/pdf/2312.01712v1)
+2. [JUNO++ - Optimizing ANNS and Enabling Eficient Sparse Atention in LLM via Ray Tracing Core](https://dl.acm.org/doi/pdf/10.1145/3768585)
 
 ## Hash-Based ANNS
 1. [A Survey on Locality Sensitive Hashing Algorithms and their Applications](https://arxiv.org/pdf/2102.08942)
