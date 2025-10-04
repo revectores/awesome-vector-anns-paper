@@ -126,89 +126,89 @@
 
 ## Non-Filtered ANNS
 ### Graph-Based ANNS
-1. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search
-2. Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities
-3. FANNG - Fast Approximate Nearest Neighbour Graphs
-4. FINGER - Fast Inference for Graph-based Approximate Nearest Neighbor Search
-5. Fast Approximate Nearest Neighbor Search with a Dynamic Exploration Graph using Continuous Refinement
-6. GSearch - ultra-fast and scalable genome search by combining K-mer hashing with hierarchical navigable small world graphs
-7. Graph- and Tree-based Indexes for High-dimensional Vector Similarity Search - Analyses, Comparisons, and Future Directions
-8. Graph-based Nearest Neighbor Search - From Practice to Theory
-9. High Dimensional Similarity Search With Satellite System Graph - Efficiency, Scalability, and Unindexed Query Compatibility
-10. LEANN - A Low-Storage Vector Index
-11. MIRAGE-ANNS - Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search
-12. MIRAGE-ANNS - Mixed Approach Graph-based Indexing for Approximate Nearest Neighbour Search
-13. NDSEARCH - Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing
-14. Navigable Graphs for High-Dimensional Nearest Neighbor Search - Constructions and Limits
-15. PECANN - Parallel Efficient Clustering with Graph-Based Approximate Nearest Neighbor Search
-16. ParlayANN - Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms
-17. Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search
-18. Proximity graphs - E, δ, ∆, χ and ω
-19. Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search
-20. RoarGraph - A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search
-21. Steiner-Hardness - A Query Hardness Measure for Graph-Based ANN Indexes
-22. Towards the Distributed Large-scale k-NN Graph Construction by Graph Merge
+1. [A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.14778/3476249.3476255)
+2. [Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities](http://arxiv.org/pdf/2506.15986v1)
+3. [FANNG - Fast Approximate Nearest Neighbour Graphs](https://openaccess.thecvf.com/content_cvpr_2016/papers/Harwood_FANNG_Fast_Approximate_CVPR_2016_paper.pdf)
+4. [FINGER - Fast Inference for Graph-based Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2206.11408v1)
+5. [Fast Approximate Nearest Neighbor Search with a Dynamic Exploration Graph using Continuous Refinement](https://arxiv.org/pdf/2307.10479)
+6. [GSearch - ultra-fast and scalable genome search by combining K-mer hashing with hierarchical navigable small world graphs](https://watermark.silverchair.com/gkae609.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0wwggNIBgkqhkiG9w0BBwagggM5MIIDNQIBADCCAy4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2r1FkTG_3dID8hjWAgEQgIIC_29WaaQ3-fJ9jLuw4d8a7nqKH2uB6d_zLGyDIIRWODo3mHi8n7fOEuSRD3dHrkpCqdob4T2taKDUkPklwuqOpoaPsp9mLigsB9tugT9F_3tALiwifIkQXnf3HvIsp6qPhk7oEJ_q4VF4N99q6RxoYXdsfPbWQCAq6ZYxCXkEO3eaBlTnUPQ6oJxtOyFhJw4y1dik93wbsA7HyxwQo678TQZln5VL7BWqL9mWs-cyfxhbENTCtzmKgyicO28QSDRb43Xr06QdoBnbDiyGKoTXZnQRG_iCt6f6q4j1Zc6od9DVfkyO8XGf-YJQE_YUBUmQs5Y6Dvqf6eMRxqUyLPpZcUSsRug_zf-uT4sWAL53Lv8heu3e4hTyHKvX_gire6edRcIqklJM3Exzm4BFHlqHyYLmaveoRX73qctmx-dWXFWvZOLDl1o5RAIm7T8-Cu_ur72cy8L95tZWRDV6YsIJWaUa5PrUKs3bak4e3sOjbHFwF71enpJOHVIsc4qiEdps4q-iaaIWqs9mYhDYb_wtfj-ycTxIxFdBiqxY6PA-27ci_ciP7VxT3JGj44Kl8BKJQOtQbNd6clJUuGXxbe4orIGv4q2GdJ_XmB7av-6X11JAZ3_Ssk_3dMd11vc5zZs8D3El8_ezc5LV9KJXi_wXh-1yxs1KVA-WDtHC_GhFhb2_sw003MprrgRrarhEge40SdEY9sBp2_cYX9u727QRBvMI9nODG8VcNgl1c5vW7AsGAMbZ5CC7lch_cLqNlUL6xtaqbuK_Ktlj64T5zAb0B9V7tyoJuLLtFTBMY3YPf_QaWod3rEsq13zdmY-4bGsyuuTvBxK6nJ_OmwP1vYrJvhKT66gmAeN10UYz56nWbzoW7iAErf2NM7bdwuJIiE-Eh9WZGx4nxi_ONXkTKDpugKIuFCOxf6qs2clfw60z66Fv44nk-I46-0ioqgC-bNVu66QkqZcW7u8sf2Cw-5kSwTLqPceoenvdtIuPNDkx2aghTb7HfbZU6KSuAJFqEFqy)
+7. [Graph- and Tree-based Indexes for High-dimensional Vector Similarity Search - Analyses, Comparisons, and Future Directions](https://helios2.mi.parisdescartes.fr/~themisp/publications/bulletin23.pdf)
+8. [Graph-based Nearest Neighbor Search - From Practice to Theory](https://proceedings.mlr.press/v119/prokhorenkova20a/prokhorenkova20a.pdf)
+9. [High Dimensional Similarity Search With Satellite System Graph - Efficiency, Scalability, and Unindexed Query Compatibility](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9383170&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzkzODMxNzA=)
+10. [LEANN - A Low-Storage Vector Index](https://arxiv.org/pdf/2506.08276)
+11. [MIRAGE-ANNS - Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3725325)
+12. [MIRAGE-ANNS - Mixed Approach Graph-based Indexing for Approximate Nearest Neighbour Search](https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/57c37957-4d87-441d-b49a-739e97fc36a7/content)
+13. [NDSEARCH - Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing](http://arxiv.org/pdf/2312.03141v2)
+14. [Navigable Graphs for High-Dimensional Nearest Neighbor Search - Constructions and Limits](http://arxiv.org/pdf/2405.18680v4)
+15. [PECANN - Parallel Efficient Clustering with Graph-Based Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2312.03940v3)
+16. [ParlayANN - Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms](http://arxiv.org/pdf/2305.04359v2)
+17. [Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2402.11354v2)
+18. [Proximity graphs - E, δ, ∆, χ and ω](https://cglab.ca/~vida/pubs/papers/ProximityGraphs.pdf)
+19. [Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2410.01231)
+20. [RoarGraph - A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2408.08933v1)
+21. [Steiner-Hardness - A Query Hardness Measure for Graph-Based ANN Indexes](https://arxiv.org/pdf/2408.13899)
+22. [Towards the Distributed Large-scale k-NN Graph Construction by Graph Merge](http://arxiv.org/pdf/2509.11697v3)
 23. Unleashing Graph Partitioning for Large-Scale Nearest Neighbor Search
-24. Updating Graph-based Index with Fine-grained Blocks for Large-scale Streaming High-dimensional Vectors
-25. VORONOI DIAGRAMS AND DELAUNAY TRIANGULATIONS Steven Fortune
-26. VSAG - An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search
-27. Voronoi Diagrams and Delaunay Triangulations
+24. [Updating Graph-based Index with Fine-grained Blocks for Large-scale Streaming High-dimensional Vectors](https://arxiv.org/pdf/2503.00402)
+25. [VORONOI DIAGRAMS AND DELAUNAY TRIANGULATIONS Steven Fortune](https://www.csun.edu/~ctoth/Handbook/chap27.pdf)
+26. [VSAG - An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2503.17911)
+27. [Voronoi Diagrams and Delaunay Triangulations](https://download.books.ms/main/2495000/bf88b9e7125e49287771ec71809a135b/Franz%20Aurenhammer%2C%20Rolf%20Klein%2C%20Der-Tsai%20Lee%20-%20Voronoi%20Diagrams%20and%20Delaunay%20Triangulations-World%20Scientific%20Publishing%20Company%20%282013%29.pdf)
 
 #### Graph ANNS Cache Optimization
-1. Graph Reordering for Cache-Efficient Near Neighbor Search
+1. [Graph Reordering for Cache-Efficient Near Neighbor Search](https://papers.neurips.cc/paper_files/paper/2022/file/fb44a668c2d4bc984e9d6ca261262cbb-Paper-Conference.pdf)
 
 #### HNSW
-1. Down with the Hierarchy - The 'H' in HNSW Stands for 'Hubs'
-2. Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs
-3. SHINE - A Scalable HNSW Index in Disaggregated Memory
+1. [Down with the Hierarchy - The 'H' in HNSW Stands for 'Hubs'](https://arxiv.org/pdf/2412.01940)
+2. [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/pdf/1603.09320)
+3. [SHINE - A Scalable HNSW Index in Disaggregated Memory](http://arxiv.org/pdf/2507.17647v1)
 
 #### NSG
-1. Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph
+1. [Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph](https://www.vldb.org/pvldb/vol12/p461-fu.pdf)
 
 #### NSW
-1. Approximate nearest neighbor algorithm based on navigable small world graphs
-2. Scalable Distributed Algorithm for Approximate Nearest
+1. [Approximate nearest neighbor algorithm based on navigable small world graphs](https://publications.hse.ru/pubs/share/folder/x5p6h7thif/128296059.pdf)
+2. [Scalable Distributed Algorithm for Approximate Nearest](https://publications.hse.ru/pubs/share/folder/sft9tib7l3/95940707.pdf)
 
 #### RNG
-1. On Constructing the Relative Neighborhood Graphs in Euclidean K-dimensional Spaces
-2. Relative Neighborhood Graphs and Their Relatives
-3. The Relative Neighbourhood Graph of a Finite Planar Set
+1. [On Constructing the Relative Neighborhood Graphs in Euclidean K-dimensional Spaces](https://link.springer.com/content/pdf/10.1007/BF02239166.pdf)
+2. [Relative Neighborhood Graphs and Their Relatives](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=163414&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzE2MzQxNA==)
+3. [The Relative Neighbourhood Graph of a Finite Planar Set](https://cgm.cs.mcgill.ca/~godfried/publications/relng.pdf)
 
 ### Hash-Based ANNS
-1. A Survey on Locality Sensitive Hashing Algorithms and their Applications
-2. Approximate Nearest Neighbors - Towards Removing the Curse of Dimensionality
-3. DET-LSH - A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search
-4. PHast – Perfect Hashing with fast evaluation
-5. PM-LSH - A Fast and Accurate LSH Framework for High-Dimensional Approximate NN Search
+1. [A Survey on Locality Sensitive Hashing Algorithms and their Applications](https://arxiv.org/pdf/2102.08942)
+2. [Approximate Nearest Neighbors - Towards Removing the Curse of Dimensionality](https://graphics.stanford.edu/courses/cs468-06-fall/Papers/06%20indyk%20motwani%20-%20stoc98.pdf)
+3. [DET-LSH - A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2406.10938v1)
+4. [PHast – Perfect Hashing with fast evaluation](https://arxiv.org/pdf/2504.17918)
+5. [PM-LSH - A Fast and Accurate LSH Framework for High-Dimensional Approximate NN Search](https://www.vldb.org/pvldb/vol13/p643-zheng.pdf)
 6. Query-Aware Locality-Sensitive Hashing for Approximate Nearest Neighbor Search
-7. SRS - Solving c-Approximate Nearest Neighbor Queries in High Dimensional Euclidean Space with a Tiny Index
+7. [SRS - Solving c-Approximate Nearest Neighbor Queries in High Dimensional Euclidean Space with a Tiny Index](https://www.vldb.org/pvldb/vol8/p1-sun.pdf)
 8. iDEC - Indexable Distance Estimating Codes for Approximate Nearest Neighbor Search
 
 ### Mixed-Based ANNS
-1. Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search
-2. SymphonyQG - Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search
+1. [Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2311.18724v1)
+2. [SymphonyQG - Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2411.12229v1)
 
 ### Partition-Based ANNS
-1. LIRA - A Learning-based Query-aware Partition Framework for Large-scale ANN Search
+1. [LIRA - A Learning-based Query-aware Partition Framework for Large-scale ANN Search](https://dl.acm.org/doi/pdf/10.1145/3696410.3714633)
 
 ### Quantization-Based ANNS
-1. A Learning-to-Rank Formulation of Clustering-Based Approximate Nearest Neighbor Search
-2. A Survey of Product Quantization
-3. Efficient Indexing of Billion-Scale datasets of deep descriptors
-4. LoRANN - Low-Rank Matrix Factorization for Approximate Nearest Neighbor Search
-5. PQTable - Fast Exact Asymmetric Distance Neighbor Search for Product Quantization using Hash Tables
-6. Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search
-7. Product Quantization for Nearest Neighbor Search
-8. Product quantization with dual codebooks for approximate nearest neighbor search
-9. RaBitQ - Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search
-10. Reconfigurable Inverted Index
-11. Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search
-12. The Inverted Multi-Index
+1. [A Learning-to-Rank Formulation of Clustering-Based Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2404.11731v1)
+2. [A Survey of Product Quantization](https://www.jstage.jst.go.jp/article/mta/6/1/6_2/_pdf/)
+3. [Efficient Indexing of Billion-Scale datasets of deep descriptors](https://openaccess.thecvf.com/content_cvpr_2016/papers/Babenko_Efficient_Indexing_of_CVPR_2016_paper.pdf)
+4. [LoRANN - Low-Rank Matrix Factorization for Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2410.18926v1)
+5. [PQTable - Fast Exact Asymmetric Distance Neighbor Search for Product Quantization using Hash Tables](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Matsui_PQTable_Fast_Exact_ICCV_2015_paper.pdf)
+6. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](http://arxiv.org/pdf/2409.09913v1)
+7. [Product Quantization for Nearest Neighbor Search](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=5432202&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzU0MzIyMDI=)
+8. [Product quantization with dual codebooks for approximate nearest neighbor search](https://pdf.sciencedirectassets.com/271597/1-s2.0-S0925231220X00245/1-s2.0-S0925231220303519/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBwSeiqBOgE%2FHU7YNS3YGf69MbDfVmME0LAk9lqlsM3wAiBWn185YxQFt%2FMtne1OTvICSpquwGBiwYjVJIILf2kOaSqzBQh1EAUaDDA1OTAwMzU0Njg2NSIMhf%2FYaNMi%2Fy0%2F%2BrxdKpAFKC6K7C%2BOnKnYS0Xt6hkuoa1cIQfmbh8qeLrWJX7MuGxA2qbT%2FbeZjvMsXRt0qy1FKHCl3RGQ09HjU%2FH6R18Y6RmudpFSKLuOB19pLMEXlVUvBV8oBcp9QDIieKf76WjWGWx4SCBuKWXPoXWcqEXfGNpGlBA3rXBMg6y9q3ESHEhRL3Q%2Fzrc0xwNrBoq2tfwsd3BvUpLzZdPnPOasDBj%2F23PEZB4oEQyRZdSh075wJXZkhGPR%2F%2B8XuSDvJBqBAICiWFP9SoVBChTHcUlPuFbi4FABfE7%2B1U0QOV3iCwwZN6HLiOJsa4u4DMFjD8eNl7mg%2BkrUhXxOQlW%2B66ywNxnkVpL2NcnU0l1nvOEWpngaGKVv1jWTRMD4BG9fvkRFQvrVihPLUCvprPKJjrW7FI5mzFHIpRTRYLWKinxtFfqiMd%2Fz%2FZrLja0RD8OUuvzV7AILOrFf7S11hkFNtyf%2FmFP1h%2BS3XqdKK1ed36no0lUIvjgdTI%2F5inrLrHnUuLaMLZl6v0DMJEJRRbIbFGS%2Br1xJZ0u1J3%2FH3UcM%2BL6Y%2BK00xiXhBmnBv77t3VGY6CoqQm92cp5THsDu5C9O5mMlK2DtP8kZ5Wx8E8YxCZh091xy8L%2FoaHITKvvb7HeiIyQwdNgYwgL%2BariVae%2FKs2Bg7rSEF8yhdW7I3N2Z%2F%2BTMAyYHJ6FLwvuqw0tcyhw8j6s9VVjLHK4W49yev2VLhINjIkCajEEMIqloD9F%2F789OC2CuuqopaMHilE6tflnHsh3sq5FURyTY5zhsKGfzY85zp2O8qcWL%2B3zbb2e%2BtZ89aejPPzZfre4wyJv4%2BhgiFE2G%2BzXIXXfibv4A%2Fm2dB9Cwug8PAXkhsyX0TSiE0KgyMwXuqOYwruW9wAY6sgGWKKIgSJb0yDAhg9jDLtDePzJNDguMAOuoMk2OLg0%2BrjxmVXplBGgsX5aWhx6ridIYJhIHGQlx2hDxWUXZKZoDzobDep7PYFuRGvcuHV7MYuZ%2B3JrEN1MyrlVXBQfPAeHbb%2FqYQueTZ1Kd1Vt6tzOZxjo6B9G8FSyDD699bY3VSumX8BOjdO4gQkNo2UsriKWZAhIDYvV8M56PAma2Sl9XF0x7x94xxiCTiqb2WB1lkXwi&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250428T124645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY37KVWEG7%2F20250428%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=30395aaff80bc3264b49b7d3af787743cdfe1c72824f2fecfadd31e8f7ac5123&hash=d0ad02ac9aee1646df1588e41eca7e3f19f0bc19df7f62d2f24632e815f389b5&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0925231220303519&tid=spdf-314319dc-c33a-496f-b8d6-4e22d82bd683&sid=8e2df26776f8c140b92a27658ba3875d9074gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=190d5d5c565903035402&rr=9376aa0e5c18dd59&cc=cn&kca=eyJrZXkiOiJwcXlUL3Q4TlJVdFZxNlhlYThiT2xQckpuNFl0dUJaWnIyY0xKOURvdFhjMVNVT0JTSzU5cm1iTE1Na2hHZzB3OUN2TG4xTmdEc0dZT0xDZzNOcit6UWZCL21UYXpxNXNXVSt4TTYzb2VMbXEybGRIbTdQdG56UGZ4YjlreWR2UDZmc3NFdUt2NFFiSXBtdEpMcithdGU4Z1NQMDVlY3ZYRmVCZktqaS8wK0pMNm1ueGNGTT0iLCJpdiI6IjMzN2Y3MGI5Yjg5ZDk0NGNkYmEzNDdlMzJjNzQxODY3In0=_1745844427653)
+9. [RaBitQ - Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3654970)
+10. [Reconfigurable Inverted Index](https://dl.acm.org/doi/pdf/10.1145/3240508.3240630)
+11. [Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10598122&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwNTk4MTIy)
+12. [The Inverted Multi-Index](https://www.robots.ox.ac.uk/~vilem/cvpr2012.pdf)
 
 ### Tree-Based ANNS
-1. Optimised KD-trees for fast image descriptor matching
+1. [Optimised KD-trees for fast image descriptor matching](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=4587638&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzQ1ODc2Mzg=)
 2. Tree-based Search Graph for Approximate Nearest Neighbor Search
-3. Trinary-Projection Trees for Approximate Nearest Neighbor Search
+3. [Trinary-Projection Trees for Approximate Nearest Neighbor Search](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=6549106&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzY1NDkxMDY=)
 
 ## Privacy-Preserving ANNS
 1. [Privacy-Preserving Approximate Nearest Neighbor Search on High-Dimensional Data](http://arxiv.org/pdf/2508.10373v1)
